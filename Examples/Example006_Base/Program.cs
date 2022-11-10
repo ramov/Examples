@@ -1,15 +1,19 @@
-﻿int a = 1;
-int b = 2;
-int c = 6;
-int d = 8;
-int e = 4;
+﻿// int a = 1;
+// int b = 2;
+// int c = 6;
+// int d = 8;
+// int e = 4;
 
-int max = a;
+// int max = a;
 
-if (b > max) max = b;
-if (c > max) max = c;
-if (d > max) max = d;
-if (e > max) max = e;
+// if (b > max) max = b;
+// if (c > max) max = c;
+// if (d > max) max = d;
+// if (e > max) max = e;
 
-Console.Write("max = ");
-Console.WriteLine(max);
+// Console.Write("max = ");
+// Console.WriteLine(max);
+
+
+int result = 123 % 10;
+Console.WriteLine(result);
